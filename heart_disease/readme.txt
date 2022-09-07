@@ -1,0 +1,1 @@
+projet de classification. une variation des modèles de classification pour savoir si un patient est exposé à une maladie cardiaque ou pas 
