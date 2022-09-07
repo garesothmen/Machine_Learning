@@ -1,0 +1,1 @@
+Ce projet est une session de TP  pour la maitrise des techniques de Clustering 

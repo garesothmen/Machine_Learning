@@ -1,0 +1,2 @@
+Practice session to master Machine learning calssifiacation on a bank data set. 
+The target of the model is to predict the futur statut of a client whether is leaving tthe bank or not basesd on a variety of features related to the client.
