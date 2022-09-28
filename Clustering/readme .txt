@@ -1,1 +1,1 @@
-Reccommended   Machine laerning project to master  Clustering  
+Recommended   Machine laerning project to master  Clustering  
